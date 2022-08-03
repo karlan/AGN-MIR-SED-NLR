@@ -1,4 +1,6 @@
-# obj_name,  z,   ew_hb, ew_o3, sample
+# optical emission line information of the sample
+#
+# objname     redshift    EW(H-beta)     EW(OIII)    sample-id
 PG0003+158      0.4510000     91.0000000     26.0000000 pg
 PG0003+199      0.0260000     95.0000000     22.0000000 pg
 PG0007+106      0.0890000    101.0000000     42.0000000 pg

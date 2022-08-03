@@ -5,18 +5,15 @@ Sample and data files used for Lyu & Rieke (2022), ApJL submitted
 
  AGN_Spitzer/    --- information of the Polomar-Green sample and SDSS-Spitzer AGN sample
 
-     type1_agn_master_sed.dat
-     type1_agn_master_sed_irsub.dat
-     type1_agn_sdss_spitzer_master.dat
-     type1_master_irs_mask.dat
-     type1_master_irs_subtag.dat
-     type1_master_irs_wise34.dat
-     type1_master_opt_line.dat
+     type1_agn_master_sed.dat     --- SED flux 
+     type1_agn_sdss_spitzer_master.dat   --- basic information of the sample
+     type1_master_irs_mask.dat   --- quality check of the Spitzer/IRS spectrum and the corresponding host subtraction
+     type1_master_irs_wise34.dat  --- synthetic WISE W3, W4 flux from the mid-IR spectrum
+     type1_master_opt_line.dat  --- optical emission line properties of the sample
 
-     type1_o4_data1_plot.dat
-     type1_o4_data2_plot.dat
-     type1_o4_irs_mask.dat
-     type1_o4_lum.dat
+     type1_o4_data1_plot.dat  --- data file for AGN sample with mid-IR OIV measurements
+     type1_o4_data2_plot.dat  --- another data file
+     type1_o4_irs_mask.dat  --- mid-IR spectrum quality check for AGN sample with mid-IR OIV measurements
      
      irs_spec_archive/       ---  directory for observed mid-IR spectra
          

@@ -1,365 +1,378 @@
-#sub   name       wavelength  vis
-1    PG0003+158      1      1
-1    PG0003+199      0      1           # maybe you can add the LL spectra by a power-law
-1    PG0007+106      1      1
-1    PG0026+129      1      1
-1    PG0043+039      1      1
-1    PG0049+171      1      1
-1    PG0050+124      1      1
-1    PG0052+251      1      1
-1    PG0157+001      1      1
-1    PG0804+761      1      1
-1    PG0838+770      1      1
-1    PG0844+349      1      1
-1    PG0921+525      1      1
-1    PG0923+201      1      1
-1    PG0923+129      1      1
-1    PG0934+013      1      1
-1    PG0947+396      1      1
-1    PG0953+414      1      1
-1    PG1001+054      1      1
-1    PG1004+130      1      1
-1    PG1011-040      1      1
-1    PG1012+008      1      1
-1    PG1022+519      1      1
-1    PG1048+342      1      1
-1    PG1048-090      1      1
-1    PG1049-005      1      1
-1    PG1100+772      1      1
-1    PG1103-006      1      1
-1    PG1114+445      1      1
-1    PG1115+407      1      1
-1    PG1116+215      1      1
-1    PG1119+120      1      1
-1    PG1121+422      1      1
-1    PG1126-041      1      1
-1    PG1149-110      1      1
-1    PG1151+117      1      1
-1    PG1202+281      1      1
-1    PG1211+143      1      1
-1    PG1216+069      1      1
-1    PG1226+023      1      1
-1    PG1229+204      1      1
-1    PG1244+026      1      1
-1    PG1259+593      1      1
-1    PG1302-102      1      1
-1    PG1307+085      1      1
-1    PG1309+355      1      1
-1    PG1310-108      1      1
-1    PG1322+659      1      1
-1    PG1341+258      1      1
-1    PG1351+236      1      1
-1    PG1351+640      1      1
-1    PG1352+183      1      1
-1    PG1354+213      1      1
-1    PG1402+261      1      1
-1    PG1404+226      1      1
-1    PG1411+442      1      1
-1    PG1415+451      1      1
-1    PG1416-129      1      1
-1    PG1425+267      1      1
-1    PG1426+015      1      1
-1    PG1427+480      1      1
-1    PG1435-067      1      1
-1    PG1440+356      1      1
-1    PG1444+407      1      1
-1    PG1448+273      1      1
-1    PG1501+106      1      1
-1    PG1512+370      1      1
-1    PG1519+226      1      1
-1    PG1534+580      1      1
-1    PG1535+547      1      1
-1    PG1543+489      1      1
-1    PG1545+210      1      1
-1    PG1552+085      1      1
-1    PG1612+261      1      1
-1    PG1613+658      1      1
-1    PG1617+175      1      1
--1   PG1626+554      0      1
-1    PG1700+518      1      1
-1    PG1704+608      1      1
-1    PG2112+059      1      1
-1    PG2130+099      1      1
-0    PG2209+184      1      1
-1    PG2214+139      1      1
-1    PG2233+134      1      1
-1    PG2251+113      1      1
-1    PG2304+042      1      1
-1    PG2308+098      1      1
-0    saga-1      1      1       ### PAH dominated system
-1    saga-2      1      1
-1    saga-6      1      0       ### highly obscured system with large S10
-1    saga-16      1      0      ### PAH dodminated system
-1    saga-21      1      1
-1    saga-22      1      1
-1    saga-23      1      1
-1    saga-25      1      1
-1    saga-46      1      1
-1    saga-52      1      1
-1    saga-54      1      1
-1    saga-58      1      0      ###  highly obscured system with large S10
-1    saga-59      1      1
-1    saga-61      1      1
-1    saga-65      1      1
-1    saga-67      1      1
-1    saga-71      1      1
-1    saga-72      1      1
-1    saga-73      1      1
-0    saga-75      1      1
-0    saga-79      1      0     ###  obscured with strong PAH
-1    saga-81      1      0     ###  strong PAH
-1    saga-106      1      0    ###  obscured with strong PAH
-0    saga-118      1      0    ###  strong PAH
-0    saga-120      1      0    ### strong PAH
-0    saga-125      1      1
-1    saga-126      1      1
-1    saga-128      1      1
-1    saga-130      1      1
-0    saga-131      1      1
-1    saga-132      1      1
-1    saga-134      1      1
-0    saga-137      1      1
-1    saga-139      1      1
-1    saga-142      1      1
-1    saga-144      1      1
-1    saga-145      1      0   ###  obscured with strong PAH
-1    saga-156      1      0   ### obscured with strong PAH
-0    saga-158      1      1
-1    saga-160      1      1
-1    saga-161      1      1
-1    saga-163      1      1
-1    saga-165      1      1
-1    saga-167      1      1
-1    saga-168      1      1
-1    saga-170      1      1   ### obscured system
-1    saga-177      1      1
-1    saga-181      1      1
-1    saga-190      1      1
-0    saga-193      1      1
-0    saga-196      1      1
-0    saga-198      1      1
-1    saga-199      1      1
-1    saga-201      1      1   ### obscured ---> the SED is funny
-1    saga-202      1      1
-1    saga-203      1      1
-1    saga-206      1      1   ### obscured ---> SED is funny
-1    saga-207      1      1
-0    saga-208      1      1
-0    saga-209      1      1
-0    saga-211      1      1
-0    saga-215      1      0   ### strong PAH
-1    saga-216      1      1
-1    saga-217      1      1
-1    saga-224      1      1
-1    saga-226      1      1
-1    saga-230      1      1
-1    saga-231      1      1
-1    saga-232      1      1
-1    saga-234      1      1
-1    saga-237      1      1
-1    saga-241      1      1
-1    saga-242      1      1
-1    saga-245      1      1
-0    saga-247      1      1
-0    saga-249      1      1
-1    saga-260      1      1
-0    saga-270      1      1
-1    saga-282      1      1    # strong PAH
-0    saga-325      1      1
-1    saga-326      1      1
-1    saga-330      1      1
-1    saga-331      1      1
-1    saga-332      1      1
-1    saga-335      1      0    # high obscured with large S10
-0    saga-360      1      1    # strong PAH
-1    saga-365      1      1    # strong PAH
-1    saga-372      1      1
-1    saga-373      1      1
-1    saga-390      1      1
-1    saga-411      1      1    # strong PAH
-1    saga-424      1      1
-1    saga-435      1      1
-1    saga-452      1      1
-1    saga-453      1      1
-1    saga-458      1      1
-0    saga-459      1      1
-1    saga-461      1      1
-0    saga-466      1      1
-1    saga-468      1      1
-0    saga-470      1      1
-1    saga-474      1      0     # strong PAH, possible obscuration
-0    saga-475      1      1
-1    saga-481      1      1
-1    saga-483      1      1
-1    saga-485      1      1
-1    saga-490      1      1
-0    saga-493      1      1     # strong PAH
-1    saga-497      1      1
-0    saga-500      1      1
-1    saga-504      1      1
-1    saga-505      1      1
-1    saga-506      1      1
-0    saga-516      1      1
-1    saga-519      1      1
-0    saga-520      1      1
-1    saga-532      1      0    # strong PAH, highly variable
-1    saga-537      1      1
-1    saga-540      1      1
-1    saga-541      1      0    # obscured 
-1    saga-544      1      0    # obscured
-0    saga-562      1      1
-1    saga-565      1      1
-0    saga-569      1      0    # strong PAH
-1    saga-573      1      1
-1    saga-574      1      0    # obscured
-0    saga-575      1      0    # obscured, with strong PAH
-1    saga-577      1      0    # strong PAH
-0    saga-578      1      1
-1    saga-582      1      1
-1    saga-583      1      1
-1    saga-590      1      1
-0    saga-592      1      1
--1   altas-8      0      1
-1    altas-10      1      1
-1    altas-12      1      0    # obscured
-1    altas-14      1      1
-1    altas-38      1      1
-1    altas-63      1      1
-1    altas-64      1      1
-1    altas-71      1      1
-1    altas-72      1      1
-1    altas-77      1      1
-1    altas-78      1      1
-1    altas-79      1      1
-1    altas-80      0      1
-0    altas-109      1      1
-0    altas-115      1      1
-1    altas-122      1      1
--1   altas-130      0      1
--1   altas-135      1      1
-0    altas-136      1      1
-1    altas-144      1      1
-0    altas-145      1      1
-1    altas-146      1      1
-1    altas-150      1      1
-1    altas-165      1      1
-1    altas-169      1      1
-1    altas-191      1      1
--1   altas-206      0      1
--1   altas-212      0      1
--1   altas-310      0      1
-1    altas-572      1      1
-1    altas-598      1      1
--1   altas-603      0      1
-1    altas-605      1      1
-1    altas-606      1      1
-1    altas-607      1      1
-1    altas-608      1      1
-1    altas-609      1      1
-1    altas-610      1      1
-1    altas-611      1      0    ## obscured
-1    altas-614      0      1
-1    altas-617      0      1
-1    altas-618      0      1
-0    altas-36      1      0    ## obscured
-1    altas-58      1      1
-1    altas-81      1      0    ### obscured
-1    altas-247      1      0   ### obscured
-1    altas-268      1      0    ## obscured
-1    altas-278      1      0    ## obscured
-1    altas-442      1      0    # obscured
-1    altas-511      1      0    # strong PAH
-0    cassis-26329600-0      1      1
--1   cassis-25387776-0      1      1
-1    cassis-25391104-0      1      1
-0    cassis-17726464-0      1      1
-1    cassis-10493696-0      1      1
--1   cassis-25389568-0      1      1
-1    cassis-26702848-0      1      1
-1    cassis-25387264-0      1      1
-1    cassis-25388800-0      1      1
-1    cassis-4733952-0      1      1
-1    cassis-4738816-0      1      1
-1    cassis-21768960-0      1      1
-1    cassis-24169984-0      1      1
-1    cassis-4732160-0      1      1
-1    cassis-15083008-0      1      1
-1    cassis-24158208-3      1      1
-1    cassis-25977344-0      1      1
-1    cassis-27446272-0      1      1
-1    cassis-26919936-0      0      1
-1    cassis-25977088-0      1      1
-1    cassis-26328576-0      1      1
-1    cassis-25977856-0      1      1
-1    cassis-27450368-0      1      1
-1    cassis-26335488-0      1      1
-1    cassis-26332672-0      1      1
-1    cassis-24153344-3      1      1
-1    cassis-24143104-3      1      1
-1    cassis-24143104-4      1      1
-1    cassis-25390848-0      1      1
-1    cassis-25390592-0      1      1
-1    cassis-26920192-0      0      1
-1    cassis-25390336-0      1      1
--1   cassis-25390080-0      1      1
-1    cassis-25389824-0      1      1
-1    cassis-25388288-0      1      1
-1    cassis-21768448-0      1      1
-1    cassis-26917632-0      0      1
-1    cassis-15083520-0      1      1
-1    cassis-17725952-0      1      1
-1    cassis-15082496-0      1      1
-1    cassis-10950400-0      1      1
-1    cassis-10950913-0      1      1
-1    cassis-24151040-0      1      1
-1    cassis-24147712-0      1      1
-1    cassis-24172288-0      1      1
-1    cassis-24163072-0      1      1
-1    cassis-24192768-0      1      1
-1    cassis-12236800-0      1      1
-0    cassis-17728512-0      1      1
-1    cassis-15078912-0      1      1
-1    cassis-24161280-2      1      1
-1    cassis-24154624-2      1      1
--1   cassis-4732416-0      0      1
-1    cassis-4164352-0      1      1
-1    cassis-4674304-0      1      0      ## highly variable, BL Lac, non-thermal continuum
-1    cassis-24190464-1      1      1
-0    cassis-24193536-1      1      1
-1    cassis-21655552-0      1      1
-1    cassis-17728000-0      1      1
-1    cassis-18978560-0      1      0       # radio strong source, highly variable, non-thermal continuum weired SED and  WISE photometry
-1    cassis-17540352-0      1      1
-1    cassis-17726720-0      1      1
-0    cassis-17726976-0      1      1
-1    cassis-17727744-0      1      1
-0    cassis-17727488-0      1      1
-1    cassis-22391040-0      1      1
-1    cassis-17728256-0      1      1
-1    cassis-17729536-0      1      1
-1    cassis-24164096-0      1      1
-1    cassis-24173312-0      1      1
-1    cassis-24145408-0      1      1      # strong PAH
-1    cassis-21768192-0      1      1
-0    cassis-17542912-0      1      0      #  BL Lac,  highly variable  weird SED
-1    cassis-17729024-0      1      1
-1    cassis-17729792-0      1      1
-1    cassis-10476288-0      1      1
-0    cassis-23015168-0      1      0      ### obscuration, weird SED
--1   cassis-24192000-0      0      1
-1    cassis-24160256-1      1      1
-1    cassis-24194560-2      1      1
-1    cassis-21768704-0      1      1
-1    cassis-22390272-0      1      1
-1    cassis-21767680-0      1      1
-1    cassis-26906624-0      1      1
-1    cassis-25388032-0      1      1
-1    cassis-25388544-0      1      1
-1    cassis-25389056-0      1      1
-1    cassis-26330368-0      1      1
-0    cassis-25389312-0      1      1
-1    cassis-25976832-0      1      1
-1    cassis-26916096-0      0      1
-1    cassis-26915840-0      0      1
-0    cassis-25977600-0      1      1
-1    cassis-24172032-2      1      1
+#  status file of the mid-IR spectra
+#   there are three different tags for each object (see below), only when the combined values 
+#                 tag_wave + tag_galsub + tag_visual = 3
+#   then the object is used to compute the average templates
+#
+#         tag_wave:   1 -- complete Spitzer/IRS coverage from 5.2 to 30 microns;  
+#                     0 -- no mid-IR spectra or the wavelength coverage is not complete
+#         tag_galsub: 1 -- successful galaxy subtraction 
+#                     0 -- subtraction cannot be done due to data issues
+#                    -1 -- unsuccessful as some negative flux values appears after the subtraction
+#         tag_visual: 1 -- quality check passed after visual inspection
+#                     0 -- not passed with the reasons left in the 'comment' column
+#
+# objname        tag_wave  tag_galsub  tag_visual    comment
+PG0003+158             1     1     1
+PG0003+199             0     1     1           # maybe you can add the LL spectra by a power-law
+PG0007+106             1     1     1
+PG0026+129             1     1     1
+PG0043+039             1     1     1
+PG0049+171             1     1     1
+PG0050+124             1     1     1
+PG0052+251             1     1     1
+PG0157+001             1     1     1
+PG0804+761             1     1     1
+PG0838+770             1     1     1
+PG0844+349             1     1     1
+PG0921+525             1     1     1
+PG0923+201             1     1     1
+PG0923+129             1     1     1
+PG0934+013             1     1     1
+PG0947+396             1     1     1
+PG0953+414             1     1     1
+PG1001+054             1     1     1
+PG1004+130             1     1     1
+PG1011-040             1     1     1
+PG1012+008             1     1     1
+PG1022+519             1     1     1
+PG1048+342             1     1     1
+PG1048-090             1     1     1
+PG1049-005             1     1     1
+PG1100+772             1     1     1
+PG1103-006             1     1     1
+PG1114+445             1     1     1
+PG1115+407             1     1     1
+PG1116+215             1     1     1
+PG1119+120             1     1     1
+PG1121+422             1     1     1
+PG1126-041             1     1     1
+PG1149-110             1     1     1
+PG1151+117             1     1     1
+PG1202+281             1     1     1
+PG1211+143             1     1     1
+PG1216+069             1     1     1
+PG1226+023             1     1     1
+PG1229+204             1     1     1
+PG1244+026             1     1     1
+PG1259+593             1     1     1
+PG1302-102             1     1     1
+PG1307+085             1     1     1
+PG1309+355             1     1     1
+PG1310-108             1     1     1
+PG1322+659             1     1     1
+PG1341+258             1     1     1
+PG1351+236             1     1     1
+PG1351+640             1     1     1
+PG1352+183             1     1     1
+PG1354+213             1     1     1
+PG1402+261             1     1     1
+PG1404+226             1     1     1
+PG1411+442             1     1     1
+PG1415+451             1     1     1
+PG1416-129             1     1     1
+PG1425+267             1     1     1
+PG1426+015             1     1     1
+PG1427+480             1     1     1
+PG1435-067             1     1     1
+PG1440+356             1     1     1
+PG1444+407             1     1     1
+PG1448+273             1     1     1
+PG1501+106             1     1     1
+PG1512+370             1     1     1
+PG1519+226             1     1     1
+PG1534+580             1     1     1
+PG1535+547             1     1     1
+PG1543+489             1     1     1
+PG1545+210             1     1     1
+PG1552+085             1     1     1
+PG1612+261             1     1     1
+PG1613+658             1     1     1
+PG1617+175             1     1     1
+PG1626+554             0     -1    1
+PG1700+518             1     1     1
+PG1704+608             1     1     1
+PG2112+059             1     1     1
+PG2130+099             1     1     1
+PG2209+184             1     0     1
+PG2214+139             1     1     1
+PG2233+134             1     1     1
+PG2251+113             1     1     1
+PG2304+042             1     1     1
+PG2308+098             1     1     1
+saga-1                 1     0     1       ### PAH dominated system
+saga-2                 1     1     1
+saga-6                 1     1     0       ### highly obscured system with large S10
+saga-16                1     1     0      ### PAH dodminated system
+saga-21                1     1     1
+saga-22                1     1     1
+saga-23                1     1     1
+saga-25                1     1     1
+saga-46                1     1     1
+saga-52                1     1     1
+saga-54                1     1     1
+saga-58                1     1     0      ###  highly obscured system with large S10
+saga-59                1     1     1
+saga-61                1     1     1
+saga-65                1     1     1
+saga-67                1     1     1
+saga-71                1     1     1
+saga-72                1     1     1
+saga-73                1     1     1
+saga-75                1     0     1
+saga-79                1     0     0     ###  obscured with strong PAH
+saga-81                1     1     0     ###  strong PAH
+saga-106               1     1     0    ###  obscured with strong PAH
+saga-118               1     0     0    ###  strong PAH
+saga-120               1     0     0    ### strong PAH
+saga-125               1     0     1
+saga-126               1     1     1
+saga-128               1     1     1
+saga-130               1     1     1
+saga-131               1     0     1
+saga-132               1     1     1
+saga-134               1     1     1
+saga-137               1     0     1
+saga-139               1     1     1
+saga-142               1     1     1
+saga-144               1     1     1
+saga-145               1     1     0   ###  obscured with strong PAH
+saga-156               1     1     0   ### obscured with strong PAH
+saga-158               1     0     1
+saga-160               1     1     1
+saga-161               1     1     1
+saga-163               1     1     1
+saga-165               1     1     1
+saga-167               1     1     1
+saga-168               1     1     1
+saga-170               1     1     1   ### obscured system
+saga-177               1     1     1
+saga-181               1     1     1
+saga-190               1     1     1
+saga-193               1     0     1
+saga-196               1     0     1
+saga-198               1     0     1
+saga-199               1     1     1
+saga-201               1     1     1   ### obscured ---> the SED is funny
+saga-202               1     1     1
+saga-203               1     1     1
+saga-206               1     1     1   ### obscured ---> SED is funny
+saga-207               1     1     1
+saga-208               1     0     1
+saga-209               1     0     1
+saga-211               1     0     1
+saga-215               1     0     0   ### strong PAH
+saga-216               1     1     1
+saga-217               1     1     1
+saga-224               1     1     1
+saga-226               1     1     1
+saga-230               1     1     1
+saga-231               1     1     1
+saga-232               1     1     1
+saga-234               1     1     1
+saga-237               1     1     1
+saga-241               1     1     1
+saga-242               1     1     1
+saga-245               1     1     1
+saga-247               1     0     1
+saga-249               1     0     1
+saga-260               1     1     1
+saga-270               1     0     1
+saga-282               1     1     1    # strong PAH
+saga-325               1     0     1
+saga-326               1     1     1
+saga-330               1     1     1
+saga-331               1     1     1
+saga-332               1     1     1
+saga-335               1     1     0    # high obscured with large S10
+saga-360               1     0     1    # strong PAH
+saga-365               1     1     1    # strong PAH
+saga-372               1     1     1
+saga-373               1     1     1
+saga-390               1     1     1
+saga-411               1     1     1    # strong PAH
+saga-424               1     1     1
+saga-435               1     1     1
+saga-452               1     1     1
+saga-453               1     1     1
+saga-458               1     1     1
+saga-459               1     0     1
+saga-461               1     1     1
+saga-466               1     0     1
+saga-468               1     1     1
+saga-470               1     0     1
+saga-474               1     1     0     # strong PAH, possible obscuration
+saga-475               1     0     1
+saga-481               1     1     1
+saga-483               1     1     1
+saga-485               1     1     1
+saga-490               1     1     1
+saga-493               1     0     1     # strong PAH
+saga-497               1     1     1
+saga-500               1     0     1
+saga-504               1     1     1
+saga-505               1     1     1
+saga-506               1     1     1
+saga-516               1     0     1
+saga-519               1     1     1
+saga-520               1     0     1
+saga-532               1     1     0    # strong PAH, highly variable
+saga-537               1     1     1
+saga-540               1     1     1
+saga-541               1     1     0    # obscured 
+saga-544               1     1     0    # obscured
+saga-562               1     0     1
+saga-565               1     1     1
+saga-569               1     0     0    # strong PAH
+saga-573               1     1     1
+saga-574               1     1     0    # obscured
+saga-575               1     0     0    # obscured, with strong PAH
+saga-577               1     1     0    # strong PAH
+saga-578               1     0     1
+saga-582               1     1     1
+saga-583               1     1     1
+saga-590               1     1     1
+saga-592               1     0     1
+altas-8                0     -1    1
+altas-10               1     1     1
+altas-12               1     1     0    # obscured
+altas-14               1     1     1
+altas-38               1     1     1
+altas-63               1     1     1
+altas-64               1     1     1
+altas-71               1     1     1
+altas-72               1     1     1
+altas-77               1     1     1
+altas-78               1     1     1
+altas-79               1     1     1
+altas-80               0     1     1
+altas-109              1     0     1
+altas-115              1     0     1
+altas-122              1     1     1
+altas-130              0     -1    1
+altas-135              1     -1    1
+altas-136              1     0     1
+altas-144              1     1     1
+altas-145              1     0     1
+altas-146              1     1     1
+altas-150              1     1     1
+altas-165              1     1     1
+altas-169              1     1     1
+altas-191              1     1     1
+altas-206              0     -1    1
+altas-212              0     -1    1
+altas-310              0     -1    1
+altas-572              1     1     1
+altas-598              1     1     1
+altas-603              0     -1    1
+altas-605              1     1     1
+altas-606              1     1     1
+altas-607              1     1     1
+altas-608              1     1     1
+altas-609              1     1     1
+altas-610              1     1     1
+altas-611              1     1     0    ## obscured
+altas-614              0     1     1
+altas-617              0     1     1
+altas-618              0     1     1
+altas-36               1     0     0    ## obscured
+altas-58               1     1     1
+altas-81               1     1     0    ### obscured
+altas-247              1     1     0   ### obscured
+altas-268              1     1     0    ## obscured
+altas-278              1     1     0    ## obscured
+altas-442              1     1     0    # obscured
+altas-511              1     1     0    # strong PAH
+cassis-26329600-0      1     0     1
+cassis-25387776-0      1     -1    1
+cassis-25391104-0      1     1     1
+cassis-17726464-0      1     0     1
+cassis-10493696-0      1     1     1
+cassis-25389568-0      1     -1    1
+cassis-26702848-0      1     1     1
+cassis-25387264-0      1     1     1
+cassis-25388800-0      1     1     1
+cassis-4733952-0       1     1     1
+cassis-4738816-0       1     1     1
+cassis-21768960-0      1     1     1
+cassis-24169984-0      1     1     1
+cassis-4732160-0       1     1     1
+cassis-15083008-0      1     1     1
+cassis-24158208-3      1     1     1
+cassis-25977344-0      1     1     1
+cassis-27446272-0      1     1     1
+cassis-26919936-0      0     1     1
+cassis-25977088-0      1     1     1
+cassis-26328576-0      1     1     1
+cassis-25977856-0      1     1     1
+cassis-27450368-0      1     1     1
+cassis-26335488-0      1     1     1
+cassis-26332672-0      1     1     1
+cassis-24153344-3      1     1     1
+cassis-24143104-3      1     1     1
+cassis-24143104-4      1     1     1
+cassis-25390848-0      1     1     1
+cassis-25390592-0      1     1     1
+cassis-26920192-0      0     1     1
+cassis-25390336-0      1     1     1
+cassis-25390080-0      1     -1    1
+cassis-25389824-0      1     1     1
+cassis-25388288-0      1     1     1
+cassis-21768448-0      1     1     1
+cassis-26917632-0      0     1     1
+cassis-15083520-0      1     1     1
+cassis-17725952-0      1     1     1
+cassis-15082496-0      1     1     1
+cassis-10950400-0      1     1     1
+cassis-10950913-0      1     1     1
+cassis-24151040-0      1     1     1
+cassis-24147712-0      1     1     1
+cassis-24172288-0      1     1     1
+cassis-24163072-0      1     1     1
+cassis-24192768-0      1     1     1
+cassis-12236800-0      1     1     1
+cassis-17728512-0      1     0     1
+cassis-15078912-0      1     1     1
+cassis-24161280-2      1     1     1
+cassis-24154624-2      1     1     1
+cassis-4732416-0       0     -1    1
+cassis-4164352-0       1     1     1
+cassis-4674304-0       1     1     0      ## highly variable, BL Lac, non-thermal continuum
+cassis-24190464-1      1     1     1
+cassis-24193536-1      1     0     1
+cassis-21655552-0      1     1     1
+cassis-17728000-0      1     1     1
+cassis-18978560-0      1     1     0       # radio strong source, highly variable, non-thermal continuum weired SED and  WISE photometry
+cassis-17540352-0      1     1     1
+cassis-17726720-0      1     1     1
+cassis-17726976-0      1     0     1
+cassis-17727744-0      1     1     1
+cassis-17727488-0      1     0     1
+cassis-22391040-0      1     1     1
+cassis-17728256-0      1     1     1
+cassis-17729536-0      1     1     1
+cassis-24164096-0      1     1     1
+cassis-24173312-0      1     1     1
+cassis-24145408-0      1     1     1      # strong PAH
+cassis-21768192-0      1     1     1
+cassis-17542912-0      1     0     0      #  BL Lac,  highly variable  weird SED
+cassis-17729024-0      1     1     1
+cassis-17729792-0      1     1     1
+cassis-10476288-0      1     1     1
+cassis-23015168-0      1     0     0      ### obscuration, weird SED
+cassis-24192000-0      0     -1    1
+cassis-24160256-1      1     1     1
+cassis-24194560-2      1     1     1
+cassis-21768704-0      1     1     1
+cassis-22390272-0      1     1     1
+cassis-21767680-0      1     1     1
+cassis-26906624-0      1     1     1
+cassis-25388032-0      1     1     1
+cassis-25388544-0      1     1     1
+cassis-25389056-0      1     1     1
+cassis-26330368-0      1     1     1
+cassis-25389312-0      1     0     1
+cassis-25976832-0      1     1     1
+cassis-26916096-0      0     1     1
+cassis-26915840-0      0     1     1
+cassis-25977600-0      1     0     1
+cassis-24172032-2      1     1     1
