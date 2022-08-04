@@ -1,6 +1,6 @@
 # AGN-MIR-SED-NLR
 
-Sample and data files used for Lyu & Rieke (2022), ApJL submitted
+Sample information and relevant data files used for Lyu & Rieke (2022), ApJL submitted
 
 
  AGN_Spitzer/    --- information of the Polomar-Green sample and SDSS-Spitzer AGN sample
