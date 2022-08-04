@@ -1,4 +1,5 @@
-# objname spec_tag w3_spec w4_spec w3_agn w4_agn 
+# WISE W3 and W4 synthesis photometry flux from the Spitzer/IRS spectra
+# objname     tag        f_{W3, tot}    f_{W4, tot}    f_{W3, AGN}   f_{W4, AGN}
 PG0007+106      1      6.5786295      4.3417721      6.5786295      4.3417721
 PG0026+129      1      7.5389428      5.6528773      7.5389428      5.6528773
 PG0049+171      1      8.4183168      6.6078687      8.4183168      6.6078687

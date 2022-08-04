@@ -11,9 +11,9 @@ Sample and data files used for Lyu & Rieke (2022), ApJL submitted
      type1_master_irs_wise34.dat  --- synthetic WISE W3, W4 flux from the mid-IR spectrum
      type1_master_opt_line.dat  --- optical emission line properties of the sample
 
-     type1_o4_data1_plot.dat  --- data file for AGN sample with mid-IR OIV measurements
-     type1_o4_data2_plot.dat  --- another data file
      type1_o4_irs_mask.dat  --- mid-IR spectrum quality check for AGN sample with mid-IR OIV measurements
+     type1_o4_irs_wise34.dat  --- synthetic WISE W3, W4 flux from the mid-IR spectrum
+     type1_o4_measurement_plot.dat  --- data file for AGN sample with mid-IR OIV measurements
      
      irs_spec_archive/       ---  directory for observed mid-IR spectra
          
@@ -31,9 +31,19 @@ Sample and data files used for Lyu & Rieke (2022), ApJL submitted
                                                   p    -- index in the parent SDSS DR7 quasar catalog from Shen+11 (http://quasar.astro.illinois.edu/BH_mass/dr7.htm)
                                                   u, g, r, i, z, j, h, k, w1, w2, w3, w4   -- optical to mid-IR flux (unit:mJy) in the observed frame
 
-     good_quasar_property.dat   --- SDSS quasar information, columns are objname, p, redshift, EW(H-beta), EW(OIII), L_{AGN, bol}, L_{H-beta}, L_{OIII} (EW are in the units of angstroms; L in the units of log10(L/(erg/s))
+     good_quasar_property.dat   --- SDSS quasar information, 
+                                 columns are:     objname  -- object name
+                                                  p  -- index in the parent SDSS DR7 quasar catalog from Shen+11 (http://quasar.astro.illinois.edu/BH_mass/dr7.htm) 
+                                                  redshift   -- redshift 
+                                                  EW(H-beta) -- H-beta equivalent width (unit: Angstroms)
+                                                  EW(OIII)   --  OIII equivalent width (unit: Angstroms)
+                                                  L_{AGN, bol} -- AGN bolometric luminosity ( unit: log10(L/(erg/s)) )
+                                                  L_{H-beta}  -- H-beta line luminosity ( unit: log10(L/(erg/s)) )
+                                                  L_{OIII}   -- OIII line luminosity  ( unit: log10(L/(erg/s)) )
+                                                  L_{5-25 microns}   -- total mid-IR luminosity at rest-frame 5--25 micron (unit: log10(L/L_sun)) ;
+                                                  L_{excess, 5-25 microns}  -- excess mid-IR luminosity at rest-frame 5--25 micron after subtracing a WDD template (unit: log10(L/L_sun))
 
-     good_quasar_lum.dat   --- mid-IR luminosities. columns are  objname, L_{5-25 microns}, L_{excess, 5-25 microns} units: log10(L/L_sun)
+     
  
  templates/    ---- AGN templates reported in the paper
 
